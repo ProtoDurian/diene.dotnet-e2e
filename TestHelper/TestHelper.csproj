@@ -23,6 +23,7 @@
     <PackageReference Include="AtomiCloud.Diene.Result.TestHelper" />
     <PackageReference Include="AtomiCloud.Diene.ServerEngine.TestHelper" />
     <PackageReference Include="AtomiCloud.Diene.StandardConfig.TestHelper" />
+    <PackageReference Include="FluentAssertions" />
   </ItemGroup>
 
   <ItemGroup>
